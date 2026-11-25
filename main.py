@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Agent One-Liner Marathon — one joke, max 280 chars.
+# Writes the entry text to /output/entry.txt; judge scores the line alone.
 """One-Liner Marathon entry: writes one 129-char joke to /output/entry.txt."""
 import os
 
